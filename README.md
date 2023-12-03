@@ -19,26 +19,26 @@ Implement a mechanism to refresh JWTs to prevent them from expiring and keep use
 ### JWT Filter Chain
 Understand the role of the JWT filter chain in Spring Security and how to configure it for JWT-based authentication.
 
-## Features
+### Features
 * User registration and login with JWT authentication
 * Password encryption using BCrypt
 * Role-based authorization with Spring Security
 * Logout mechanism
 * Refresh token
 
-## Technologies
+### Technologies
 * Spring Boot 3.0
 * Spring Security
 * JSON Web Tokens (JWT)
 * BCrypt
 * Maven
 
-## Getting Started
+### Getting Started
 To get started with this project, you will need to have the following installed on your local machine:
 * JDK 21
 * Maven 3+
 
-## Target Audience
+### Target Audience
 This repository is intended for Spring developers who want to implement secure authentication and authorization in their Spring Boot applications using JSON Web Tokens (JWTs). It is suitable for both beginners and experienced developers seeking a comprehensive guide to JWT integration with Spring Security.
 
 Happy Coding ✌️✨
