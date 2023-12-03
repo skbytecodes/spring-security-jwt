@@ -4,7 +4,7 @@ Spring Security JWT implementation
 
 This repository provides a step-by-step guide to implementing JSON Web Tokens (JWTs) for authentication and authorization in Spring Boot applications. It covers the following topics:
 
-## Introduction to JWTs and Spring Security
+#### Introduction to JWTs and Spring Security
 Understand the basics of JWTs and how they can be used for secure authentication and authorization in Spring applications.
 
 ## Spring Security JWT Configuration
